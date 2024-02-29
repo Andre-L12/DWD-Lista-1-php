@@ -64,7 +64,7 @@ QTDE TOTAL
 ...
 50 - R$ 99.50
 <br><br><br>
-PARA OS EXERCÍCIOS ABAIXO, ESTUDE A AULA SOBRE FUNÇÕES (SEMANA 3)
+PARA OS EXERCÍCIOS ABAIXO, ESTUDE A AULA SOBRE FUNÇÕES (SEMANA 3)<br><br>
 8. Faça uma função para calcular o fatorial de um número. Coloque em uma variável o valor
 que você pretende calcular o fatorial e chame essa função.<br><br><br>
 9. O número de combinações possíveis de m elementos em grupos de n elementos (n <=
