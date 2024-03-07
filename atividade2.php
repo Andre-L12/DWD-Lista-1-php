@@ -1,5 +1,6 @@
 <?php
 //atividade 2
+date_default_timezone_set('America/Sao_Paulo');
 $hora = date("H");
 if (0 <= $hora && $hora <= 5){
     echo "<span style='color: red;'>VAI DORMIR </span>";
